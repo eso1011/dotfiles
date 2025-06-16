@@ -4,7 +4,7 @@
   "dockerfile-language-server": "0.14.0",
   "gofumpt": "v0.8.0",
   "goimports": "v0.34.0",
-  "golangci-lint": "v2.1.6",
+  "golangci-lint": "v1.64.8",
   "gopls": "v0.18.1",
   "hadolint": "v2.12.0",
   "json-lsp": "4.10.0",
